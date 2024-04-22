@@ -1,12 +1,15 @@
 # Ejercicios de Programación
 
-Este repositorio contiene una colección de ejercicios de programación resueltos en diferentes lenguajes, como Java y Python. Los ejercicios son parte del canal de YouTube [nombre del canal] y están numerados del 001 al 066.
+Este repositorio contiene una colección de ejercicios de programación resueltos en diferentes lenguajes, como Java y Python. Los ejercicios son parte del canal de YouTube [ProgramandoConElNovato](https://www.youtube.com/@ProgramandoConElNovato) y están numerados del 001 al 066.
 
 ## Organización de carpetas
 
-El repositorio está organizado de la siguiente manera:
-
 - **JAVA/**: Contiene los ejercicios resueltos en el lenguaje de programación Java.
+  - [Ejercicio 1](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/01_ejercicio)
+  - [Ejercicio 2](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/02_ejercicio)
+  - [Ejercicio 3](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/03_ejercicio)
+  - [Ejercicio 4](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/04_ejercicio)
+  - [Ejercicio 5](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/05_ejercicio)
 - **PYTHON/**: Contiene los ejercicios resueltos en el lenguaje de programación Python.
 
 Dentro de cada carpeta, encontrarás los archivos correspondientes a cada ejercicio, nombrados en el formato `XXX_ejercicio`, donde `XXX` es el número del ejercicio.
@@ -36,4 +39,4 @@ Para ejecutar los programas Python, sigue estos pasos:
 
 ## Licencia
 
-Este proyecto está bajo la licencia [nombre de la licencia]. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Consulta el archivo LICENSE para más detalles.
