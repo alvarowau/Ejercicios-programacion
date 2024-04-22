@@ -10,6 +10,12 @@ Este repositorio contiene una colección de ejercicios de programación resuelto
   - [Ejercicio 3](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/03_ejercicio)
   - [Ejercicio 4](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/04_ejercicio)
   - [Ejercicio 5](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/05_ejercicio)
+  - [Ejercicio 6](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/06_ejercicio)
+  - [Ejercicio 7](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/07_ejercicio)
+  - [Ejercicio 8](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/08_ejercicio)
+  - [Ejercicio 9](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/09_ejercicio)
+  - [Ejercicio 10](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/10_ejercicio)
+  - [Ejercicio 11](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/11_ejercicio)
 - **PYTHON/**: Contiene los ejercicios resueltos en el lenguaje de programación Python.
 
 Dentro de cada carpeta, encontrarás los archivos correspondientes a cada ejercicio, nombrados en el formato `XXX_ejercicio`, donde `XXX` es el número del ejercicio.
