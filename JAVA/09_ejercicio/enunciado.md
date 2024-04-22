@@ -6,13 +6,15 @@ En este ejercicio, desarrollaremos un programa que simule el juego "Piedra - Pap
 
 ## Enunciado
 
-Escribe un programa que permita a dos jugadores enfrentarse en una partida de "Piedra - Papel - Tijeras - Lagarto - Spock". El programa debe solicitar a cada jugador que elija una de las siguientes opciones:
+Escribe un programa que permita a un jugador enfrentarse contra el programa en una partida de "Piedra - Papel - Tijeras - Lagarto - Spock". El programa debe solicitar al jugador que elija una de las siguientes opciones:
 
 - Piedra
 - Papel
 - Tijeras
 - Lagarto
 - Spock
+
+El programa, representando al jugador 2, elegirá su opción de forma aleatoria.
 
 Basado en las reglas del juego, determina cuál de los dos jugadores es el ganador o si la partida termina en empate.
 
@@ -35,7 +37,7 @@ Si ambos jugadores eligen la misma opción, el juego termina en empate.
 
 ## Ejemplo
 
-- Jugador 1 elige "Piedra" y Jugador 2 elige "Tijeras". El ganador es Jugador 1, ya que la piedra aplasta las tijeras.
+- Jugador 1 elige "Piedra" y el programa elige "Tijeras". El ganador es el jugador 1, ya que la piedra aplasta las tijeras.
 
 ## Objetivos de Aprendizaje
 
