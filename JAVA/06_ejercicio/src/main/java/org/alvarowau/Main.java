@@ -9,7 +9,7 @@ public class Main {
         System.out.print("Digite el número que quiera comprobar: ");
 
         int numero = entrada.nextInt();
-        
+
         entrada.close();
         String cadena = "";
         if(numero % 2 == 0) cadena += "El número es divisible entre dos. ";
