@@ -53,4 +53,6 @@ Para ejecutar los programas Python, sigue estos pasos:
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Consulta el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo la GNU General Public License, versión 2 (GPLv2). Puedes copiar, modificar y distribuir este código bajo los términos de la GPLv2.
+
+Para obtener más información sobre la licencia, consulta el archivo [LICENSE](LICENSE.txt).
