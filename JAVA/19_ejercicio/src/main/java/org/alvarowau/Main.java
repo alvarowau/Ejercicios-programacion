@@ -1,17 +1,38 @@
 package org.alvarowau;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        Scanner entrada = new Scanner(System.in);
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
+        System.out.print("Ingrese un número entero: ");
+        int numero = entrada.nextInt();
+        int numeroAbsoluto = Math.abs(numero);
+        int numeroInvertido = 0;
+
+        int cantidadDigitos = (int) (Math.log10(numeroAbsoluto) + 1);
+
+        if (cantidadDigitos > 1) {
+            // Invertir los dígitos del número
+            while (numeroAbsoluto > 0) {
+                int ultimoDigito = numeroAbsoluto % 10; // Obtener el último dígito
+                numeroInvertido = numeroInvertido * 10 + ultimoDigito; // Construir el número invertido
+                numeroAbsoluto /= 10; // Eliminar el último dígito
+            }
+
+            System.out.println(); // Salto de línea
+
+            // Comparar el número invertido con el número absoluto
+            if (numeroInvertido == Math.abs(numero)) {
+                System.out.println("El número es capicúa.");
+            } else {
+                System.out.println("El número no es capicúa.");
+            }
+        } else {
+            System.out.println("El número no tiene suficientes cifras para ser capicúa.");
         }
+
+        entrada.close();
     }
 }
