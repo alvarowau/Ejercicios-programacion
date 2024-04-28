@@ -45,6 +45,6 @@ public class Main {
                     "\nLa suma de los dígitos pares es: " + suma);
         }
 
-        entrada.close(); 
+        entrada.close();
     }
 }
