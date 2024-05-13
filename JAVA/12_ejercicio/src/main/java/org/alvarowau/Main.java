@@ -43,5 +43,6 @@ public class Main {
         if (contador == 10) System.out.println("Has consumido todos los intentos, vuelve a empezar otra partida");
             // Si el jugador ha acertado antes de agotar los intentos, muestra un mensaje de felicitación
         else System.out.println("¡Lo conseguiste, eres un genio! Vuelve a empezar otra partida");
+        entrada.close();
     }
 }

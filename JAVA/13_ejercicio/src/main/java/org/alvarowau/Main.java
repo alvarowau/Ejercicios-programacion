@@ -28,5 +28,6 @@ public class Main {
         } else {
             System.out.println("No se ha podido hallar la media.");
         }
+        entrada.close();
     }
 }
