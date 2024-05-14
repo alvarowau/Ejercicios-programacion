@@ -26,7 +26,7 @@ Este repositorio contiene una colección de ejercicios de programación resuelto
   - [Ejercicio 19](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/19_ejercicio)
   - [Ejercicio 20](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/20_ejercicio)
   - [Ejercicio 21](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/21_ejercicio)
-  - [Ejercicio 20](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/22_ejercicio)
+  - [Ejercicio 22](https://github.com/alvarowau/Ejercicios-programacion/tree/main/JAVA/22_ejercicio)
 
 - **PYTHON/**: Contiene los ejercicios resueltos en el lenguaje de programación Python.
 
