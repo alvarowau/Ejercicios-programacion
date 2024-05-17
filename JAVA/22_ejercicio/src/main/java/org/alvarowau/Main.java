@@ -140,8 +140,9 @@ public class Main {
      * @return true si la cadena puede convertirse en un número entero, false de lo contrario.
      */
     private static boolean isNumero(String recogido){
+        
         try{
-            int valor = Integer.parseInt(recogido);
+            Integer.parseInt(recogido);
             return true;
         }catch (NumberFormatException e){
             System.out.println("introduzca un valor numerico");
