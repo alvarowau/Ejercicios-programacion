@@ -2,6 +2,8 @@ package org.alvarowau;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Mapa mapa = new Mapa();
+        mapa.mostrarMapaJuego();
+        mapa.juego();
     }
 }
