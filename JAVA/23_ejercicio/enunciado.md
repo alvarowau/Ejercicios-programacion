@@ -10,18 +10,18 @@ Escribe un programa en Java que realice lo siguiente:
 
 1. Cree una cuadrícula bidimensional (por ejemplo, de 5x5).
 2. Coloque un tesoro en una posición aleatoria dentro de la cuadrícula.
-3. Solicite al usuario que ingrese las coordenadas para buscar el tesoro.
+3. Solicite al usuario que ingrese las coordenadas (letras) para buscar el tesoro.
 4. Proporcione pistas al usuario indicando la dirección en la que se encuentra el tesoro (arriba, abajo, izquierda, derecha).
 5. Continúe solicitando coordenadas hasta que el usuario encuentre el tesoro.
 6. Al encontrar el tesoro, muestre un mensaje de felicitación y el número de intentos realizados.
 
 ## Ejemplo
 
-1. El programa genera una cuadrícula de 5x5 y coloca el tesoro en la posición (3, 4).
-2. El usuario ingresa las coordenadas (2, 3).
+1. El programa genera una cuadrícula de 5x5 y coloca el tesoro en la posición (C, D).
+2. El usuario ingresa las coordenadas (B, C).
     - El programa muestra: "El tesoro está abajo a la derecha".
-3. El usuario ingresa las coordenadas (3, 4).
-    - El programa muestra: "¡Felicidades! Has encontrado el tesoro en (3, 4) después de 2 intentos".
+3. El usuario ingresa las coordenadas (C, D).
+    - El programa muestra: "¡Felicidades! Has encontrado el tesoro en (C, D) después de 2 intentos".
 
 ## Objetivos de Aprendizaje
 
