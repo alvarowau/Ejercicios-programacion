@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="14_ejercicio" />
+        <module name="20_ejercicio" />
+        <module name="01_ejercicio" />
+        <module name="16_ejercicio" />
+        <module name="03_ejercicio" />
+        <module name="22_ejercicio" />
+        <module name="08_ejercicio" />
+        <module name="10_ejercicio" />
+        <module name="19_ejercicio" />
+        <module name="23_ejercicio" />
+        <module name="04_ejercicio" />
+        <module name="06_ejercicio" />
+        <module name="12_ejercicio" />
+        <module name="17_ejercicio" />
+        <module name="25_ejercicio" />
+        <module name="09_ejercicio" />
+        <module name="07_ejercicio" />
+        <module name="21_ejercicio" />
+        <module name="02_ejercicio" />
+        <module name="15_ejercicio" />
+        <module name="05_ejercicio" />
+        <module name="24_ejercicio" />
+        <module name="11_ejercicio" />
+        <module name="13_ejercicio" />
+        <module name="18_ejercicio" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

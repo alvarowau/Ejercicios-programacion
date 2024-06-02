@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/JAVA/01_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/02_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/03_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/04_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/05_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/06_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/07_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/08_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/09_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/10_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/11_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/12_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/13_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/14_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/15_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/16_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/17_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/18_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/19_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/20_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/21_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/22_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/23_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/24_ejercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/25_ejercicio/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="zulu-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
